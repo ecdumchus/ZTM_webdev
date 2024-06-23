@@ -1,0 +1,1 @@
+This website is a first project for ZTM's web development course. I did add some styles to the page, as I found a plain white page boring. I have built websites previously, with HTML 3 and CSS (it did not have a number when I last used it.)
